@@ -213,7 +213,9 @@ Major dependencies include:
 ## 11. Contributors
 
 **Lead Developer:** Sibi Aathithyaa
+
 **Project Title:** Morph Image Detection using YOLOv8 and Streamlit GUI
+
 **Collaborators:** App development and deployment team
 
 ---
