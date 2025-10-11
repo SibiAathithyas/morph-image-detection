@@ -40,9 +40,9 @@ The model combines the strengths of **YOLOv8’s feature extraction** with **cus
 morph_image_detection_github/
     ├── morph_gui_v3.py  #Simple GUI created using streamlit to run and test the model
     |--.gitignore
-    yolo_cv_runs/production/v3
-    |--v3
-       |--morphdet_v3.pt    #YOLOv8 classifier model (Size:9.18 MB)
+    |---yolo_cv_runs/production/v3
+        |--v3
+           |--morphdet_v3.pt    #YOLOv8 classifier model (Size:9.18 MB)
 ```
 
 ---
